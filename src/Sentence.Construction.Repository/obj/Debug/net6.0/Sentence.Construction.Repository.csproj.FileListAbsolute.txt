@@ -1,0 +1,12 @@
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\bin\Debug\net6.0\Sentence.Construction.Repository.deps.json
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\bin\Debug\net6.0\Sentence.Construction.Repository.dll
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\bin\Debug\net6.0\Sentence.Construction.Repository.pdb
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.csproj.AssemblyReference.cache
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.AssemblyInfoInputs.cache
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.AssemblyInfo.cs
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.csproj.CoreCompileInputs.cache
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.dll
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\refint\Sentence.Construction.Repository.dll
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\Sentence.Construction.Repository.pdb
+C:\Learning\github\sentence-construction-api\src\Sentence.Construction.Repository\obj\Debug\net6.0\ref\Sentence.Construction.Repository.dll
